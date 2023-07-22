@@ -28,10 +28,6 @@ URL Shortener is a simple web application that allows users to create shortened 
 - Mongoose: Version 7.4.0
 - Shortid: Version 2.2.16
 
-## License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [Express.js](https://expressjs.com/)
